@@ -1,4 +1,4 @@
-[Click Me..!](https://app.netlify.com/sites/languages-cardss/settings/general)
+[Click Me..!](https://languages-cardss.netlify.app)
 
 # Getting Started with Create React App
 
