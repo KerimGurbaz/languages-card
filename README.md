@@ -1,5 +1,7 @@
 [Click Me..!](https://languages-cardss.netlify.app)
 
+<img width="848" alt="Screen Shot 2022-10-15 at 01 22 43" src="https://user-images.githubusercontent.com/101603320/195957034-6c62328e-70e2-4ef0-a590-f05c7e1381e1.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
